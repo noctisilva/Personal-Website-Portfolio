@@ -1,0 +1,224 @@
+@font-face {
+    font-family: 'pacificoregular';
+    src: url('pacifico1/pacifico-webfont.eot');
+    src: url('pacifico1/pacifico-webfont.eot?#iefix') format('embedded-opentype'),
+         url('pacifico1/pacifico-webfont.woff') format('woff'),
+         url('pacifico1/pacifico-webfont.ttf') format('truetype'),
+         url('pacifico1/pacifico-webfont.svg#pacificoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'quicksandregular';
+    src: url('quicksand1/quicksand-regular-webfont.eot');
+    src: url('quicksand1/quicksand-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('quicksand1/quicksand-regular-webfont.woff') format('woff'),
+         url('quicksand1/quicksand-regular-webfont.ttf') format('truetype'),
+         url('quicksand1/quicksand-regular-webfont.svg#quicksandregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'quicksandbold';
+    src: url('quicksand/quicksand-bold.eot');
+    src: url('quicksand/quicksand-bold.eot?#iefix') format('embedded-opentype'),
+         url('quicksand/quicksand-bold.woff2') format('woff2'),
+         url('quicksand/quicksand-bold.woff') format('woff'),
+         url('quicksand/quicksand-bold.ttf') format('truetype'),
+         url('quicksand/quicksand-bold.svg#quicksandbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#myName{
+    font-family:quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none;
+    text-align: center;
+    font-size: 6em;
+}
+
+#quote{
+    font-family:quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none;
+    text-align: center;
+    font-size: 4em;   
+}
+
+#title{
+    font-family:quicksandregular;
+    color: #191919;
+    text-decoration: none;
+    font-size: 3em;
+}
+
+#infoDetail{
+    font-family:quicksandregular;
+    color: #191919;
+    text-decoration: none;
+    font-size: 1.5em;   
+}
+
+#resume{
+    font-family:quicksandregular;
+    color: #191919;
+    text-decoration: none;
+    font-size: 2.5em;  
+}
+
+#techExpTitle{
+    font-family:quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none;
+    font-size: 3em;  
+}
+
+.teListTitle{
+    font-family:quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none; 
+    font-size: 2em;  
+}
+
+.teListInfo{
+    font-family:quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none; 
+    font-size: 1.2em;   
+}
+
+#leadExpTitle{
+    font-family:quicksandregular;
+    color: #191919;
+    text-decoration: none;
+    font-size: 3em;  
+}
+
+.leListTitle{
+    font-family:quicksandregular;
+    color: #191919;
+    text-decoration: none; 
+    font-size: 2em;  
+}
+
+.leListInfo{
+    font-family:quicksandregular;
+    color: #191919;
+    text-decoration: none; 
+    font-size: 1.2em;   
+}
+
+#contactMeTitle{
+    font-family:quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none; 
+    font-size: 3em;     
+}
+
+#contactMeInfo{
+    font-family:quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none; 
+    font-size: 1.5em;    
+}
+
+@media (max-width: 787px) {
+
+#myName {
+    font-family: quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none;
+    text-align: center;
+    font-size: 2em;
+}
+
+#quote {
+    font-family: quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1em;
+}
+
+#title{
+    font-family:quicksandregular;
+    color: #191919;
+    text-decoration: none;
+    font-size: 5em;
+}
+
+#infoDetail{
+    font-family:quicksandregular;
+    color: #191919;
+    text-decoration: none;
+    font-size: 1.3em;   
+}
+
+#techExpTitle{
+    font-family:quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none;
+    font-size: 1.5em;  
+}
+
+.teListTitle{
+    font-family:quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none; 
+    font-size: 1em;  
+}
+
+.teListInfo{
+    font-family:quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none; 
+    font-size: 1em;   
+}
+
+#leadExpTitle{
+    font-family:quicksandregular;
+    color: #191919;
+    text-decoration: none;
+    font-size: 1.5em;  
+}
+
+.leListTitle{
+    font-family:quicksandregular;
+    color: #191919;
+    text-decoration: none; 
+    font-size: 1em;  
+}
+
+.leListInfo{
+    font-family:quicksandregular;
+    color: #191919;
+    text-decoration: none; 
+    font-size: 1em;   
+}
+
+#contactMeTitle{
+    font-family:quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none; 
+    font-size: 2em;     
+}
+
+#contactMeInfo{
+    font-family:quicksandregular;
+    color: #F5F5F5;
+    text-decoration: none; 
+    font-size: 1em;    
+}
+
+#resume{
+    font-family:quicksandregular;
+    color: #191919;
+    text-decoration: none;
+    font-size: 1.7em;  
+}
+
+}
